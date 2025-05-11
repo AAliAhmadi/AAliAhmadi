@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Ahmadi
 
 I'm a mathematician turned machine learning enthusiast, passionate about solving real-world problems using **Computer Vision** and **Deep Learning**.  
-After completing my master's in mathematics at Tarbiat Modares University, I pivoted toward applied AI by studying Data Science at **RWTH Aachen** and later preparing for a PhD in **AI at Charles University**.
+After completing my master's in mathematics at Tarbiat Modares University, I pivoted toward applied AI by studying Data Science at **RWTH Aachen** and now, studying a PhD in **AI at Charles University**.
 
 ---
 
