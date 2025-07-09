@@ -15,7 +15,7 @@ After completing my master's in mathematics at Tarbiat Modares University, I piv
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, LaTeX, Bash
+- **Languages:** Python, LaTeX, Git, MySql
 - **Libraries:** PyTorch, NumPy, OpenCV, scikit-learn, Tensorflow, SQLite  
 - **Concepts:** CNNs, RNNs, VAE, attention, optimization for computer vision and NLP.
 
