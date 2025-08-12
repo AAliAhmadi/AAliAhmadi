@@ -3,7 +3,7 @@
 I'm a mathematician turned machine learning enthusiast, passionate about solving real-world problems mainly using **Deep Learning**.  
 After completing my master's in mathematics at Tarbiat Modares University, I pivoted toward applied AI by studying Data Science at **RWTH Aachen** and now, studying a PhD in **AI at Charles University**.
 
-If you want to contact me, you can reach me by ahmadi.abdulali[at]yahoo.com
+If you want to contact me, you can reach me via ahmadi.abdulali[at]yahoo.com
 
 ---
 
@@ -18,7 +18,7 @@ If you want to contact me, you can reach me by ahmadi.abdulali[at]yahoo.com
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python, LaTeX, Git, MySql
-- **Libraries:** PyTorch, NumPy, OpenCV, scikit-learn, Tensorflow, SQLite  
+- **Libraries:** PyTorch, NumPy, OpenCV, scikit-learn, Tensorflow, SQLite, FastAPI
 - **Concepts:** CNNs, RNNs, VAE, attention, optimization for computer vision and NLP.
 
 ---
