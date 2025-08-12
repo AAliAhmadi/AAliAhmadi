@@ -3,6 +3,8 @@
 I'm a mathematician turned machine learning enthusiast, passionate about solving real-world problems mainly using **Deep Learning**.  
 After completing my master's in mathematics at Tarbiat Modares University, I pivoted toward applied AI by studying Data Science at **RWTH Aachen** and now, studying a PhD in **AI at Charles University**.
 
+If you want to contact me, you can reach me by ahmadi.abdulali[at]yahoo.com
+
 ---
 
 ## 🔬 Current Focus
