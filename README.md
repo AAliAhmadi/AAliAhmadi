@@ -26,7 +26,7 @@ If you want to contact me, you can reach me via ahmadi.abdulali[at]yahoo.com
 ## 🎯 Goals
 
 - Join a research-driven team and contribute to **cutting-edge AI**  
-- Continue advancing toward a **PhD in machine learning or CV**  
+- Continue advancing toward a **PhD in Machine Learning or Deep Learning**  
 - Share open-source code and learn collaboratively
 
 ---
